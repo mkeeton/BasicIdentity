@@ -1,0 +1,9 @@
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\bin\Debug\Database.BasicIdentity.dacpac
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\bin\Debug\Database.BasicIdentity.dll
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\bin\Debug\Database.BasicIdentity.pdb
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\obj\Debug\Model.xml
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\obj\Debug\refactor.xml
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\obj\Debug\postdeploy.sql
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\obj\Debug\predeploy.sql
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\obj\Debug\Database.BasicIdentity.dll
+C:\Users\Martin\Documents\Dropbox\Development\Applications\C\BasicIdentity\Database.BasicIdentity\obj\Debug\Database.BasicIdentity.pdb
